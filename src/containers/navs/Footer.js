@@ -10,23 +10,23 @@ const Footer = () => {
         <div className="container-fluid">
           <Row>
             <Colxx xxs="12" sm="6">
-              <p className="mb-0 text-muted">ColoredStrategies 2020</p>
+              <p className="mb-0 text-muted">Oneck Creative 2020</p>
             </Colxx>
             <Colxx className="col-sm-6 d-none d-sm-block">
               <ul className="breadcrumb pt-0 pr-0 float-right">
                 <li className="breadcrumb-item mb-0">
                   <NavLink className="btn-link" to="#" location={{}}>
-                    Review
+                    Blog
                   </NavLink>
                 </li>
                 <li className="breadcrumb-item mb-0">
                   <NavLink className="btn-link" to="#" location={{}}>
-                    Purchase
+                    Cadastros
                   </NavLink>
                 </li>
                 <li className="breadcrumb-item mb-0">
                   <NavLink className="btn-link" to="#" location={{}}>
-                    Docs
+                    Documentação
                   </NavLink>
                 </li>
               </ul>

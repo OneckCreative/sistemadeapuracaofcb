@@ -36,10 +36,16 @@ const data = [
     to: `${adminRoot}/blank-page`,
   },
   {
-    id: 'docs',
+    id: 'Pedigree',
+    icon: 'iconsminds-bucket',
+    label: 'menu.blank-page',
+    to: `${adminRoot}/pedigree/index`,
+  },
+  {
+    id: 'Tutorial',
     icon: 'iconsminds-library',
     label: 'menu.docs',
-    to: 'https://gogo-react-docs.coloredstrategies.com/',
+    to: '#',
     newWindow: true,
   },
 ];
